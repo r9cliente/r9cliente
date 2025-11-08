@@ -1,16 +1,3 @@
-Certo\! Aqui está o código HTML atualizado.
-
-Eu identifiquei a seção `<section class="funnel">` e, dentro da `div class="funnel-stages"`, mantive os 4 estágios originais e adicionei mais 5, totalizando 9 soluções, conforme solicitado.
-
-Os novos estágios adicionados são:
-
-  * **05: Advocacia (Indicação)**
-  * **06: Aumento de Valor (Upsell)**
-  * **07: Remarketing Estratégico**
-  * **08: Análise de Dados**
-  * **09: Otimização Contínua**
-
-<!-- end list -->
 
 ```html
 <!DOCTYPE html>
